@@ -23,7 +23,7 @@ repository               : "sydneyrmiller.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Screenshot_2026-03-26_at_9.16.24_AM.heic"
+  avatar           : "profilepic.png"
   name             : "Sydney Rae Miller"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"

@@ -18,3 +18,10 @@ News
 April, 2026- Successfully passed PhD field exam!
 
 March, 2026- Presented research on writing instructors’ decisions about generative AI at [Conference on College Composition and Communication (CCCC)](https://cccc.ncte.org/).
+
+<h2>News</h2>
+<div style="font-size: 0.9em;">
+  <p><strong>April 2026</strong> — Successfully passed PhD field exam (advancing to candidacy).</p>
+  <p><strong>March 2026</strong> — Presented research on writing instructors’ decisions about generative AI at 
+  <a href="https://cccc.ncte.org/">Conference on College Composition and Communication (CCCC)</a>.</p>
+</div>
